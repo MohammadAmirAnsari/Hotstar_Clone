@@ -1,6 +1,6 @@
 let movies = [
     {
-        image: "Images/slider 1.png",
+        image: "Image/slider 1.png",
         name: 'falcon and winter soldier',
         des: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil cum repudiandae iste?"
         
@@ -8,22 +8,22 @@ let movies = [
     {
         name: "loki",
         des: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil cum repudiandae iste?",
-        image: "Images/slider 2.png"
+        image: "Image/slider 2.png"
     },
     {
         name: "wanda vision",
         des: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil cum repudiandae iste?",
-        image: "Images/slider 3.png"
+        image: "Image/slider 3.png"
     },
     {
         name: "raya and the dragon",
         des: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil cum repudiandae iste?",
-        image: "Images/slider 4.png"
+        image: "Image/slider 4.png"
     },
     {
         name: "luca",
         des: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil cum repudiandae iste?",
-        image: "Images/slider 5.png"
+        image: "Image/slider 5.png"
     }
 ];
 
